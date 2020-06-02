@@ -12,10 +12,10 @@ Requirements:
 * Filament of your choice
 
 #### View
-![Example Case](Top.jpg)
-![Example Case](Top-iso-inside.jpg)
-![Example Case](Bottom.jpg)
-![Example Case](Bottom-iso-inside.jpg)
+<img src="Top.jpg" width="500" align="center"> 
+<img src="Top-iso-inside.jpg" width="500" align="center"> 
+<img src="Bottom.jpg" width="500" align="center"> 
+<img src="Bottom-iso-inside.jpg" width="500" align="center"> 
 
 #### Added case for wallmount and TV-mount
 
@@ -23,9 +23,9 @@ I added a bottom case with mounttracks on each side and a wallmount + TV-mount.
 You can slide the bottom case into the wall- and TV-mount. 
 You can screw the RPi4 PCB to the bottom case using M3 screws and nuts.
 
-![Example Case](mounted-tvmount.jpg)
-![Example Case](mounted-wallmount.jpg)
-![Example Case](mounttracks.jpg)
-![Example Case](screws.jpg)
-![Example Case](TV-arm-mount.jpg)
-![Example Case](wallmount.jpg)
+<img src="mounted-tvmount.jpg" width="500" align="center"> 
+<img src="mounted-wallmount.jpg" width="500" align="center"> 
+<img src="mounttracks.jpg" width="500" align="center"> 
+<img src="screws.jpg" width="500" align="center"> 
+<img src="TV-arm-mount.jpg" width="500" align="center"> 
+<img src="wallmount.jpg" width="500" align="center"> 
