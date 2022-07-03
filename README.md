@@ -25,10 +25,10 @@ I added a bottom case with mounttracks on each side and a wallmount + TV-mount.
 You can slide the bottom case into the wall- and TV-mount. 
 You can screw the RPi4 PCB to the bottom case using M3 screws and nuts.
 <p align="center">
-<img src="mounted-tvmount.jpg" height="130"> 
-<img src="mounted-wallmount.jpg" height="130"> 
-<img src="mounttracks.jpg" height="130"> 
-<img src="screws.jpg" height="130"> 
-<img src="TV-arm-mount.jpg" height="130"> 
-<img src="wallmount.jpg" height="130"> 
+<img src="mounted-tvmount.jpg" height="120"> 
+<img src="mounted-wallmount.jpg" height="120"> 
+<img src="mounttracks.jpg" height="120"> 
+<img src="screws.jpg" height="120"> 
+<img src="TV-arm-mount.jpg" height="120"> 
+<img src="wallmount.jpg" height="120"> 
 </p>
